@@ -1,0 +1,2 @@
+# brainstorm-ideator
+Brainstorming assistant
